@@ -1,50 +1,3 @@
-// let message: string = "Hello World !";
-// console.log(message);
-
-// Level 1
-// Question 1 type primitives de données en TypeScript
-// String, number, boolean, undefined, null, void
-
-// Question 2 Comment typer un tableau avec TS
-// Méthode 1
-//let tab: number[] = [1, 2, 3];
-// console.log ("la variable tab est de type : ", typeof tab);  pour avoir le type
-// console.log ("la variable tab contient : " tab);
-// Méthode 2
-// let tab2: Array<boolean>;
-// tab2 = [true, false];
-// console.log("La variable est de type : ", typeof tab2);
-
-// Question 3  le type `any` ?
-// let maVariable;
-// console.log("variable sans typage : ", typeof maVariable);
-
-// let maVariable2: any;
-// console.log("variable sans typage : " typeof myVariable2);
-
-// Question 4 typer une fonction et ses parametres.
-// function addition(a: number, b: number): number {
-//     console.log("résultat a + b", a + b);
-//     return a + b;
-// }
-// console.log("le type de retour de la fonction : ", typeof addition(5,7));
-
-//LEVEL 2
-// Question 5 Qu'est ce qu'une classe ?
-// Structure qui définit les caractéristiques et le comportement d'un objet.
-// dans une classe il y a des propriétés et des méthodes.
-
-// Question 6 constructeur
-// C'est une méthode spéciale qui permet d'initialisé les valeurs des propriétés d'une instance
-
-// Question 7 une instance
-// un objet créé à partir d'une classe.
-
-// Question 8 Qu'est ce que la visibilité des propriétés ?
-// public, private et protected
-
-// LEVEL 3
-// Question 9
 
 // CREATION DE LA CLASSE HERO
 
@@ -186,10 +139,6 @@ console.log("FIGHT Louis vs Jerome : " +bataille(louis, jerome));
 // console.log("FIGHT Quentin vs Bayram : " +bataille(quentin, bayram));
 
 
-
-
-
-
 // louis.attack(jeremy);
 // louis.attack(jeremy);
 // louis.attack(jeremy);
@@ -198,9 +147,6 @@ console.log("FIGHT Louis vs Jerome : " +bataille(louis, jerome));
 // quentin.attack(jerome);
 // jerome.attack(quentin);
 // jerome.attack(quentin);
-
-
-
 
 
 // RESULTAT
